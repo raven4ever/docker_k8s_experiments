@@ -1,0 +1,1 @@
+A series of Docker & K8S projects created based on the lectures from the [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) course.
