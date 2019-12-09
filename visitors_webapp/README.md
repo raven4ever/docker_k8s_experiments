@@ -1,0 +1,2 @@
+A NodeJS application which will count the number of visitors. The number of visitors will be stored in a Redis database.
+The application container is linked with the Redis databse using a network created with Docker compose.
