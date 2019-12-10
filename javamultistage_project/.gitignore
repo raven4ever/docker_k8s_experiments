@@ -1,0 +1,6 @@
+.vscode
+app/bin
+app/target
+app/.project
+app/.classpath
+app/.settings
